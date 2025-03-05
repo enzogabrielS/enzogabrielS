@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Enzo Gabriel de Souza, tenho 16 anos e sou de Atibaia, São Paulo. Ainda estou fazendo meu ensino medio na ETEC Prof. Carmine Biagio Tundisi, no tal qual estou fazendo o curso de Desenvolvimento de Sistemas. Gosto muito de tecnologia e programação em geral, sempre procuro aprender coisas novas sempre que posso.
+Meu nome é Enzo Gabriel de Souza, tenho 16 anos e sou de Atibaia, São Paulo. Ainda estou fazendo meu ensino medio na ETEC Prof. Carmine Biagio Tundisi, atualmente no segundo ano, no tal qual estou fazendo o curso de Desenvolvimento de Sistemas. Gosto muito de tecnologia e programação em geral, sempre procuro aprender coisas novas sempre que posso.
 
 ---
 <p align="left">
