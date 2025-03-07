@@ -106,12 +106,4 @@ Meu nome é Enzo Gabriel de Souza, tenho 16 anos e sou de Atibaia, São Paulo. A
     src="https://github-readme-stats.vercel.app/api?username=enzogabrielS&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogabrielS&theme=github_dark&layout=compact&custom_title=Tecnologias e Linguagens&langs_count=9" 
-  />
-
 </p>
