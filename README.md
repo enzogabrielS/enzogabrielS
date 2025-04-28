@@ -95,15 +95,3 @@ Meu nome é Enzo Gabriel de Souza, tenho 16 anos e sou de Atibaia, São Paulo. A
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=enzogabrielS&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
