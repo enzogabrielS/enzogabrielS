@@ -9,14 +9,14 @@ My name is Enzo Gabriel de Souza, I am 16 years old and I am from Atibaia, São 
 <p align="left">
     <a href="https://github.com/enzogabrielS?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="Total Stars" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/enzogabrielS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/enzogabrielS?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Followers" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/enzogabrielS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
