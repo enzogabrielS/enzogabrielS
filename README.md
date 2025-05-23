@@ -95,3 +95,4 @@ Meu nome é Enzo Gabriel de Souza, tenho 16 anos e sou de Atibaia, São Paulo. A
 <br/>
 <br/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C38F7&width=435&lines=Welcome+to+my+GitHub+Profile+%5E%5E;See+my+repositories!" alt="Typing SVG" /></a>
