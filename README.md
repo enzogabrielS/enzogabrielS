@@ -1,5 +1,7 @@
 # 🤖 Enzo Gabriel
- 
+ <br/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C38F7&width=435&lines=Welcome+to+my+GitHub+Profile+%5E%5E;See+my+repositories!" alt="Typing SVG" /></a> 
+ <br/>
 **`Desenvolvedor FullStack`**
 
 My name is Enzo Gabriel de Souza, I am 16 years old and I am from Atibaia, São Paulo. I am still attending high school at ETEC Prof. Carmine Biagio Tundisi, currently in my second year, where I am taking the Systems Development course. I really enjoy technology and programming in general, and I am always looking to learn new things whenever I can.
@@ -96,4 +98,4 @@ My name is Enzo Gabriel de Souza, I am 16 years old and I am from Atibaia, São 
 <br/>
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C38F7&width=435&lines=Welcome+to+my+GitHub+Profile+%5E%5E;See+my+repositories!" alt="Typing SVG" /></a>
+
