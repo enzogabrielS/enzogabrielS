@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C38F7&width=435&lines=Welcome+to+my+GitHub+Profile+%5E%5E;See+my+repositories!" alt="Typing SVG" /></a>
 
-<br/>
 
 # 🤖 Enzo Gabriel
 **`Desenvolvedor FullStack`**
